@@ -1,0 +1,5 @@
+cricket uses the following equipement:-
+1) bat
+2) ball
+3) stumps
+4) helmet
